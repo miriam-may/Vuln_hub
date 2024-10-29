@@ -12,4 +12,6 @@ Network is a host-only network configured within VirtualBox, with the IP address
 
 Specific tools and software used in attacks will be elaborated on in the attack notes.
 
+Each set of notes has an "initial.md" page - start there
+
 Thanks!

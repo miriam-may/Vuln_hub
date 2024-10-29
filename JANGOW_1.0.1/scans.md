@@ -36,7 +36,7 @@ And after filtering out the most common wordcount (1) we have a winner.
 
 ![ffuf](images/ffuf.png)
 
-Going to the browser and rendering it, we see the IDs of the web server. Maybe not a rabbit hole, then? I seem to be able to execute linux commands and get a response from the server via this webpage.
+Going to the browser and rendering it, we see the IDs of the web server. Maybe not a rabbit hole, then? I seem to be able to execute Linux commands and get a response from the server via this webpage.
 
 ![id](images/displayed_id.png)
 
